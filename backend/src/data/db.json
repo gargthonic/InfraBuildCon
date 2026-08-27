@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Urban Bridge Construction",
+      "location": "San Francisco, CA",
+      "price": "$2,400,000",
+      "type": "Infrastructure",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "description": "Building modern bridges that connect communities with safety and style.",
+      "details": "A landmark connectivity project spanning 1.2km, engineered for high traffic loads with a 100-year design life. Delivered on schedule with zero safety incidents.",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Bridge",
+        "Urban",
+        "Infrastructure"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Renewable Energy Plant",
+      "location": "Austin, TX",
+      "price": "$8,150,000",
+      "type": "Commercial",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "description": "Sustainable energy solutions to power cities while protecting the environment.",
+      "details": "A 50MW solar-hybrid facility built with sustainable materials and smart-grid integration, reducing regional carbon emissions by an estimated 30,000 tons per year.",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Energy",
+        "Sustainability",
+        "Green"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Modern Residential Complex",
+      "location": "Denver, CO",
+      "price": "$1,250,000",
+      "type": "Residential",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2800,
+      "description": "Innovative living spaces designed for comfort and community.",
+      "details": "A boutique residential development featuring open-plan interiors, shared green space, and energy-efficient design across 40 units.",
+      "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Residential",
+        "Modern",
+        "Comfort"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Highway Expansion",
+      "location": "Phoenix, AZ",
+      "price": "$5,600,000",
+      "type": "Infrastructure",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "description": "Upgrading highways to improve traffic flow and safety with cutting-edge technology.",
+      "details": "A 12-mile highway widening project incorporating smart traffic sensors and noise-reduction barriers, cutting average commute times by 18%.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "tags": [
+        "Highway",
+        "Transport",
+        "Safety"
+      ]
+    }
+  ]
+}

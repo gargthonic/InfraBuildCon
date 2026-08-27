@@ -1,0 +1,201 @@
+{
+  "siteSettings": {
+    "siteName": "Infra Buildcon",
+    "tagline": "Real Estate & Construction, Under One Roof"
+  },
+  "hero": {
+    "badge": "Trusted Real Estate & Construction Partner",
+    "title": "Find, Build & Invest",
+    "highlight": "In Properties You'll Love",
+    "subtitle": "Infra Buildcon pairs real estate expertise with in-house construction capability — helping you buy, sell, and build with total confidence.",
+    "primaryCtaText": "View Properties",
+    "primaryCtaLink": "/projects",
+    "secondaryCtaText": "Get a Free Consultation",
+    "secondaryCtaLink": "/contact"
+  },
+  "stats": [
+    {
+      "number": 200,
+      "label": "Properties Delivered"
+    },
+    {
+      "number": 15,
+      "label": "Years of Experience"
+    },
+    {
+      "number": 50,
+      "label": "Expert Professionals"
+    }
+  ],
+  "trustBadges": [
+    {
+      "label": "BBB A+ Accredited"
+    },
+    {
+      "label": "NAHB Member Builder"
+    },
+    {
+      "label": "Featured in Realty Weekly"
+    },
+    {
+      "label": "4.9/5 from 300+ Clients"
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "icon": "HardHat",
+      "title": "Safety First",
+      "description": "We prioritize safety on every site, ensuring zero compromises."
+    },
+    {
+      "icon": "Clock",
+      "title": "On-Time Delivery",
+      "description": "Committed to finishing projects on schedule, every time."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Sustainable Practices",
+      "description": "Eco-friendly methods to minimize environmental impact."
+    },
+    {
+      "icon": "Users",
+      "title": "Experienced Team",
+      "description": "Skilled professionals with decades of combined expertise."
+    },
+    {
+      "icon": "ProjectDiagram",
+      "title": "Comprehensive Planning",
+      "description": "Thorough project management for smooth execution."
+    },
+    {
+      "icon": "Building",
+      "title": "Quality Construction",
+      "description": "Superior workmanship backed by quality materials."
+    }
+  ],
+  "process": [
+    {
+      "title": "Consult",
+      "description": "Tell us your goals — buying, selling, or building. We map out the right path together."
+    },
+    {
+      "title": "Plan & Design",
+      "description": "Our team handles site evaluation, budgeting, and design so every detail is locked in early."
+    },
+    {
+      "title": "Build or Acquire",
+      "description": "Construction or transaction begins, with transparent updates at every milestone."
+    },
+    {
+      "title": "Handover",
+      "description": "You get the keys — on schedule, on budget, and backed by our support after move-in."
+    }
+  ],
+  "services": [
+    {
+      "icon": "Home",
+      "title": "Property Buying & Selling",
+      "description": "Buy or sell residential and commercial properties with expert guidance."
+    },
+    {
+      "icon": "Briefcase",
+      "title": "Real Estate Consulting",
+      "description": "Get market insights, investment advice, and legal guidance from our experts."
+    },
+    {
+      "icon": "OfficeBuilding",
+      "title": "Commercial Leasing",
+      "description": "Find the perfect commercial space for your business with flexible leasing options."
+    },
+    {
+      "icon": "ClipboardCheck",
+      "title": "Construction & Architecture",
+      "description": "From planning to execution, we offer end-to-end construction and design solutions."
+    },
+    {
+      "icon": "CurrencyDollar",
+      "title": "Property Valuation",
+      "description": "Accurate and reliable property appraisal services by certified professionals."
+    },
+    {
+      "icon": "UserGroup",
+      "title": "Client Relationship Management",
+      "description": "We prioritize transparency and personalized service for all our clients."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah Mitchell",
+      "role": "Homeowner",
+      "quote": "Infra Buildcon helped us find and close on our dream home in under three weeks. Transparent, professional, and genuinely caring."
+    },
+    {
+      "name": "David Chen",
+      "role": "Commercial Developer",
+      "quote": "From site planning to final handover, their team delivered our retail complex ahead of schedule without cutting corners."
+    },
+    {
+      "name": "Priya Nair",
+      "role": "Property Investor",
+      "quote": "Their market insight made all the difference. I've closed three investment properties through them and would go nowhere else."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Do you only work on new construction, or also existing properties?",
+      "answer": "Both. We help clients buy and sell existing residential and commercial properties, and we design and build new construction from the ground up."
+    },
+    {
+      "question": "How long does a typical project take from consultation to handover?",
+      "answer": "It depends on scope — a property purchase can close in a few weeks, while custom construction projects typically run 4-12 months. We give you a clear timeline during the planning stage."
+    },
+    {
+      "question": "Do you provide financing or valuation support?",
+      "answer": "We don't originate loans directly, but our consulting team provides property valuation and can connect you with trusted financing partners."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We currently operate across major metro areas including San Francisco, Austin, Denver, and Phoenix, with projects expanding regionally."
+    }
+  ],
+  "about": {
+    "intro": "At Infra Buildcon, we're committed to helping clients buy, sell, and build properties that last — combining real estate expertise with in-house construction capability. Our work is a reflection of precision, passion, and purpose.",
+    "missionTitle": "Our Mission & Values",
+    "missionText": "We stand on the pillars of quality, transparency, and sustainability. Every structure we build is driven by these values and a responsibility toward the environment and society.",
+    "values": [
+      {
+        "title": "Integrity",
+        "description": "Honest, transparent dealings at every stage."
+      },
+      {
+        "title": "Innovation",
+        "description": "Modern engineering and design solutions."
+      },
+      {
+        "title": "Safety",
+        "description": "Uncompromising commitment to site safety."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction drives everything we do."
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+1 (555) 123-4567",
+    "email": "contact@infrabuildcon.com",
+    "addressLine1": "123 Infra Buildcon St.",
+    "addressLine2": "Build City, BC 45678",
+    "addressLine3": "Country",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.086854007533!2d-122.4194156846812!3d37.77492977975992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809c17a69eaf%3A0x7bde860b0d8d1a94!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1639655243139!5m2!1sen!2sus"
+  },
+  "footer": {
+    "tagline": "Building your dreams with strength & trust.",
+    "socials": {
+      "instagram": "https://instagram.com",
+      "facebook": "https://facebook.com",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  }
+}
